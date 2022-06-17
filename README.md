@@ -15,7 +15,8 @@
   Some of the analysis and challenges i encountered on this projects was ability to make precise readible pivot tables along with getting proper trendlines on line graph so we can make future refrences based upon our pivot tables feeding us quick data.
 
 ### Analysis of Outcomes Based on Launch Date
- ![img_1] (https://github.com/muizzm/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+https://raw.githubusercontent.com/MuizzM/Kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png
+ -In this graph trendline we monitor our graph for being succeful in theater category in the hottest months of the year by looking at the trendlines we can monitor those and make a decision baased upon our graph.
 
 
 
@@ -34,6 +35,8 @@
  - The second conclusion would be that our failed rate goal trendline is very constant theought the year due to the kickstarter ability to help promote more theater campaign.
 
 ***What can you conclude about the Outcomes based on Goals?*** 
+
+ - Succesful rates are very high if the goals is below $1000. But once we get above $50000 our failed rate beats the succesful rate by huge margins
 
 ***What are some limitations of this dataset?*** 
 - There are several outliers in the funding goal/target amounts of money for several categories/subcategories. While we have ‘blurbs’ for each Kickstarter campaign, it would be helpful to have more detailed information into what each Kickstarter hopes to accomplish (in terms of actionable items). It might not be worth including both campaigns with ambitious/expensive goals and campaigns with smaller/cheap goals in the same study.
