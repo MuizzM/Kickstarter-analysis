@@ -15,7 +15,7 @@
   Some of the analysis and challenges i encountered on this projects was ability to make precise readible pivot tables along with getting proper trendlines on line graph so we can make future refrences based upon our pivot tables feeding us quick data.
 
 ### Analysis of Outcomes Based on Launch Date
-  -![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+  -[![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)](https://github.com/muizzm/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
