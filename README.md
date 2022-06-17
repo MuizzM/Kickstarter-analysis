@@ -22,13 +22,16 @@
 ### Analysis of Outcomes Based on Goals
 
   --[![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)](https://github.com/muizzm/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
-  Attached above of line graph. As we can see we started of very strong becuase our goal reached amount was low and very achievable by many of the kickstarter campaign.But as we move further down the goal we can see a divergence in our graph. The graphs tends to bottom out with succesful and failed goals
+  
+   -Attached above of line graph. As we can see we started of very strong becuase our goal reached amount was low and very achievable by many of the kickstarter           campaign.But as we move further down the goal we can see a divergence in our graph. The graphs tends to bottom out with succesful and failed goals
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
 ***What are two conclusions you can draw about the Outcomes based on Launch Date?*** 
+ -The first conclusion is theater category makes a run during the spring to summer months as theater kickstarter succesful rate is very high but as we get to colder months of the year our trendlines goes down based upon our succes rate of the campaign goal.
+ - The second conclusion would be that our failed rate goal trendline is very constant theought the year due to the kickstarter ability to help promote more theater campaign.
 
 ***What can you conclude about the Outcomes based on Goals?*** 
 
